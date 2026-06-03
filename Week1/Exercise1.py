@@ -1,4 +1,4 @@
-ODE:
+CODE:
 #area of rectangle 
 length=float(input("Enter length:"))
 breadth=float(input("Enter breadth:"))
